@@ -17,8 +17,8 @@ GitHub Pages builds the website from `main` and `/docs`. After you push a change
 
 ## Purpose and sources
 
-Replace this paragraph with two or three sentences about your guide's audience and purpose. The first eight resources were supplied by COMPSS 211A. Name the resource you added and link to the official webpage you used to check it.
+This guide is for students who are new to Berkeley and want to find useful campus services and places. The first eight resources were supplied by COMPSS 211A. I added the Recreational Sports Facility (RSF) and checked its details on the RecWell RSF Website(https://recwell.berkeley.edu/facilities/rsf/).
 
 ## Website checks
 
-After publishing your changes, replace this paragraph with the live website link, the existing entry you improved, the new resource you added, and what you checked on the website. Say whether the displayed values match your CSV and whether the official links open the intended pages.
+Live website: https://bellalu1109-beep.github.io/hidden-berkeley/. I improved the access note for Morrison Library (HB03) using the library's Morrison Website(https://www.lib.berkeley.edu/visit/morrison) and added the Recreational Sports Facility (HB09). In a private browser window, I checked that the page shows nine entries and that the Morrison and RSF entries show the same values as the CSV. Both official links opened the intended pages, and the CSV on GitHub includes the HB09 row.
